@@ -1,0 +1,16 @@
+{
+  "name": "ENERGIZE",
+  "short_name": "Energize",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#ff2d55",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
